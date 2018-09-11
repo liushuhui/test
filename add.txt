@@ -1,2 +1,3 @@
 Git is a version control system.
-Git is free software.dd 当时的
+Git is free software.dd 当时的。
+it is a version control system.
